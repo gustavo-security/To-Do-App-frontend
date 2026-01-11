@@ -1,4 +1,4 @@
-# 📝 To-Do List — Frontend
+# To-Do List — Frontend
 
 Aplicação **To-Do List** desenvolvida com **HTML, CSS e JavaScript puro**, com foco em **manipulação do DOM** e **persistência de dados no navegador** utilizando **LocalStorage**.
 
@@ -6,7 +6,7 @@ Projeto criado com fins educacionais para prática de **lógica de programação
 
 ---
 
-## 🚀 Funcionalidades
+## Funcionalidades
 
 - Adicionar novas tarefas  
 - Marcar tarefas como concluídas  
@@ -19,7 +19,7 @@ As tarefas permanecem salvas mesmo após atualizar ou fechar a página, graças 
 
 ---
 
-## 🛠️ Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 - **HTML5** — Estrutura da aplicação  
 - **CSS3** — Estilização e layout responsivo  
@@ -28,7 +28,7 @@ As tarefas permanecem salvas mesmo após atualizar ou fechar a página, graças 
 
 ---
 
-## 📂 Estrutura do Projeto
+## Estrutura do Projeto
 
 ```text
 ├── index.html
@@ -37,7 +37,7 @@ As tarefas permanecem salvas mesmo após atualizar ou fechar a página, graças 
 └── images/
 ```
 
-## ▶️ Como Executar o Projeto
+## Como Executar o Projeto
 
 1. Clone este repositório:
    ```bash
@@ -47,7 +47,7 @@ As tarefas permanecem salvas mesmo após atualizar ou fechar a página, graças 
 > Não é necessário servidor ou dependências adicionais.
 
 
-## 🧠 Conceitos Praticados
+## Conceitos Praticados
 
 - Manipulação do DOM
 - Eventos em JavaScript
@@ -56,13 +56,13 @@ As tarefas permanecem salvas mesmo após atualizar ou fechar a página, graças 
 - Armazenamento local (`localStorage`)
 - Separação de responsabilidades (HTML / CSS / JS)
 
-## 📸 Preview
+## Preview
 
 <p align="center">
   <img src="images/preview.png" alt="Preview da aplicação" width="600">
 </p>
 
-## 📌 Status do Projeto
+## Status do Projeto
 
 ✔️ Funcional<br>
 🚧 Em evolução
